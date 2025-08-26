@@ -14,7 +14,7 @@ You have two ways to engage with this project:
 
 2.  **Read the Write-up:**
     * If you get stuck or want to see the intended solution, I have created a detailed, step-by-step write-up.
-    * You can read it on [**Medium**](https://medium.com/@creepus/advanced-sqli-a-tryhackme-room-write-up-81561fb07689) or in the [**`WRITEUP.md` file in this repository**](./WRITEUP.md).
+    * You can read it on [**Medium**](https://medium.com/@creepus/advanced-sqli-a-tryhackme-room-write-up-81561fb07689) (recomended) or in the [**`WRITEUP.md` file in this repository**](./WRITEUP.md).
 
 ### 🎯 Topics Covered
 
