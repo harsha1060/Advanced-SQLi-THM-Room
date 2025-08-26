@@ -22,7 +22,7 @@ Classic Injection Techniques
 
 SQL injection
 
-Unotherized file access
+Unauthorized file access
 
 Remote Code Execution
 
